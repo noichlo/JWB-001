@@ -6,7 +6,7 @@
 - Số điện thoại: *0974466443*
 - Lớp: *K63-E*
 - Email: *longbombay@gmail.com*
-## Sở trường, sở đoản#
+## Sở trường, sở đoản
 - Đàn hát văn nghệ văn ngủng :>
 - Đọc nhiều sách, tìm tòi, xem nhiều kiến thức qua mạng
 - Thích tìm hiểu các kiến thức mới
