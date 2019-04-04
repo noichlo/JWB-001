@@ -1,0 +1,11 @@
+<style type="text/css">
+    body {
+          font: 36px Arial, sans-serif;
+    }
+    #content {
+          position: relative;
+          float: left;
+          top: 50%;
+          left: 50%;
+          transform: translate(-50%, -50%);
+    }
